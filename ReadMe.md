@@ -31,6 +31,16 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 
 ## Online Courses
 #### Coursera
+- [x] Algorithmic Toolbox
+- [x] Algorithms on Graphs
+- [x] Algorithms on Strings
+- [x] Python Data Structures
+- [x] Functional Programming Principles in Scala
+- [x] Functional Program Design in Scala
+- [x] Parallel Programming
+- [x] Julia Scientific Programming
+- [x] Principles of Computing, Part-2
+
 - [ ] Algorithms, Part-1
 - [ ] Algorithms, Part-2
 - [ ] Principles of Computing, Part-1
@@ -51,16 +61,10 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [ ] Programming Language, Part- C
 - [ ] Approximation Algorithms, Part-1
 - [ ] Approximation Algorithms, Part-2
+- [ ] Model Thinking
+- [ ] Games Without Chance
 
-- [x] Algorithmic Toolbox
-- [x] Algorithms on Graphs
-- [x] Algorithms on Strings
-- [x] Python Data Structures
-- [x] Functional Programming Principles in Scala
-- [x] Functional Program Design in Scala
-- [x] Parallel Programming
-- [x] Julia Scientific Programming
-- [x] Principles of Computing, Part-2
+
 
 #### Later, perhaps
 - EdX
