@@ -39,7 +39,6 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [ ] Algorithms, Part-1
 - [ ] Algorithms, Part-2
 - [ ] Principles of Computing, Part-1
-- [ ] Principles of Computing, Part-2
 - [ ] Algorithmic Thinking, Part-1
 - [ ] Algorithmic Thinking, Part-2
 - [ ] Divide and Conquer, Sorting and Searching and Randomized Algorithms
@@ -47,16 +46,8 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [ ] Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming
 - [ ] Shortest Paths Revisited, NP-Complete Problems and What to do about them.
 - [ ] Analysis of Algorithms
-- [ ] Algorithmic Toolbox
-- [ ] Algorithms on Graphs
-- [ ] Algorithms on Strings
 - [ ] Data Structures
 - [ ] Advanced Algorithms and Complexity
-- [ ] Python Data Structures
-- [ ] Functional Programming Principles in Scala
-- [ ] Functional Program Design in Scala
-- [ ] Parallel Programming
-- [ ] Julia Scientific Programming
 - [ ] Discrete Optimization
 - [ ] Game Theory, Part-1
 - [ ] Game Theory, Part-2
@@ -64,6 +55,15 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [ ] Programming Language, Part- B
 - [ ] Programming Language, Part- C
 
+- [x] Algorithmic Toolbox
+- [x] Algorithms on Graphs
+- [x] Algorithms on Strings
+- [x] Python Data Structures
+- [x] Functional Programming Principles in Scala
+- [x] Functional Program Design in Scala
+- [x] Parallel Programming
+- [x] Julia Scientific Programming
+- [x] Principles of Computing, Part-2
 
 #### EdX
 - 
