@@ -36,33 +36,33 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 
 ## Online Courses
 #### Coursera
-- Algorithms, Part-1
-- Algorithms, Part-2
-- Principles of Computing, Part-1
-- Principles of Computing, Part-2
-- Algorithmic Thinking, Part-1
-- Algorithmic Thinking, Part-2
-- Divide and Conquer, Sorting and Searching and Randomized Algorithms
-- Graph Search, Shortest Paths and Data Structures
-- Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming
-- Shortest Paths Revisited, NP-Complete Problems and What to do about them.
-- Analysis of Algorithms
-- Algorithmic Toolbox
-- Algorithms on Graphs
-- Algorithms on Strings
-- Data Structures
-- Advanced Algorithms and Complexity
-- Python Data Structures
-- Functional Programming Principles in Scala
-- Functional Program Design in Scala
-- Parallel Programming
-- Julia Scientific Programming
-- Discrete Optimization
-- Game Theory, Part-1
-- Game Theory, Part-2
-- Programming Language, Part- A
-- Programming Language, Part- B
-- Programming Language, Part- C
+- [ ] Algorithms, Part-1
+- [ ] Algorithms, Part-2
+- [ ] Principles of Computing, Part-1
+- [ ] Principles of Computing, Part-2
+- [ ] Algorithmic Thinking, Part-1
+- [ ] Algorithmic Thinking, Part-2
+- [ ] Divide and Conquer, Sorting and Searching and Randomized Algorithms
+- [ ] Graph Search, Shortest Paths and Data Structures
+- [ ] Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming
+- [ ] Shortest Paths Revisited, NP-Complete Problems and What to do about them.
+- [ ] Analysis of Algorithms
+- [ ] Algorithmic Toolbox
+- [ ] Algorithms on Graphs
+- [ ] Algorithms on Strings
+- [ ] Data Structures
+- [ ] Advanced Algorithms and Complexity
+- [ ] Python Data Structures
+- [ ] Functional Programming Principles in Scala
+- [ ] Functional Program Design in Scala
+- [ ] Parallel Programming
+- [ ] Julia Scientific Programming
+- [ ] Discrete Optimization
+- [ ] Game Theory, Part-1
+- [ ] Game Theory, Part-2
+- [ ] Programming Language, Part- A
+- [ ] Programming Language, Part- B
+- [ ] Programming Language, Part- C
 
 
 #### EdX
