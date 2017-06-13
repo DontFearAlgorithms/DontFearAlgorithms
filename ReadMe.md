@@ -15,7 +15,7 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - Racket ( Typed )
 
 
-** I'll rely on SageMath for various understanding and exploring various mathematical ideas and concepts.
+** I'll rely on SageMath and Mathematica for various understanding and exploring various mathematical ideas and concepts.
 
 ## Books 
 
@@ -34,7 +34,6 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - An Introduction to BioInformatics Algorithms, Pevzner
 - BioInformatics and Functional Genomics, Pevsner
 
-
 ## Online Courses
 #### Coursera
 - Algorithms, Part-1
@@ -46,10 +45,28 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - Divide and Conquer, Sorting and Searching and Randomized Algorithms
 - Graph Search, Shortest Paths and Data Structures
 - Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming
-- Shortest Paths Revisited, NP-
+- Shortest Paths Revisited, NP-Complete Problems and What to do about them.
+- Analysis of Algorithms
+- Algorithmic Toolbox
+- Algorithms on Graphs
+- Algorithms on Strings
+- Data Structures
+- Advanced Algorithms and Complexity
+- Python Data Structures
+- Functional Programming Principles in Scala
+- Functional Program Design in Scala
+- Parallel Programming
+- Julia Scientific Programming
+- Discrete Optimization
+- Game Theory, Part-1
+- Game Theory, Part-2
+- Programming Language, Part- A
+- Programming Language, Part- B
+- Programming Language, Part- C
+
 
 #### EdX
-
+- 
 
 Of the various courses, I've completed in these online platforms, I'd much rather do them again, with `Julia`, `Racket` and `Scala` in mind, deep inside ths feels right and makes me inspired to really `understand the essence` of these courses.
 
