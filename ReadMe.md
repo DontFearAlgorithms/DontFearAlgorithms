@@ -29,11 +29,6 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - Analytic Combinatorics, Sedgewick
 
 
-## Biology
-- Rosalind BioInformatics problems
-- An Introduction to BioInformatics Algorithms, Pevzner
-- BioInformatics and Functional Genomics, Pevsner
-
 ## Online Courses
 #### Coursera
 - [ ] Algorithms, Part-1
@@ -54,6 +49,8 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [ ] Programming Language, Part- A
 - [ ] Programming Language, Part- B
 - [ ] Programming Language, Part- C
+- [ ] Approximation Algorithms, Part-1
+- [ ] Approximation Algorithms, Part-2
 
 - [x] Algorithmic Toolbox
 - [x] Algorithms on Graphs
@@ -65,8 +62,12 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [x] Julia Scientific Programming
 - [x] Principles of Computing, Part-2
 
-#### EdX
+#### Later, perhaps
+- EdX
+- XueTang
+- Stepic
 - 
+
 
 Of the various courses, I've completed in these online platforms, I'd much rather do them again, with `Julia`, `Racket` and `Scala` in mind, deep inside ths feels right and makes me inspired to really `understand the essence` of these courses.
 
