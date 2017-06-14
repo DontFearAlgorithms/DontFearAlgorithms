@@ -40,7 +40,6 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [x] Parallel Programming
 - [x] Julia Scientific Programming
 - [x] Principles of Computing, Part-2
-
 - [ ] Algorithms, Part-1
 - [ ] Algorithms, Part-2
 - [ ] Principles of Computing, Part-1
