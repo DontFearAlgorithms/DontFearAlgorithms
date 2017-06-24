@@ -42,9 +42,6 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [x] Principles of Computing, Part-2
 - [ ] Algorithms, Part-1
 - [ ] Algorithms, Part-2
-- [ ] Principles of Computing, Part-1
-- [ ] Algorithmic Thinking, Part-1
-- [ ] Algorithmic Thinking, Part-2
 - [ ] Divide and Conquer, Sorting and Searching and Randomized Algorithms
 - [ ] Graph Search, Shortest Paths and Data Structures
 - [ ] Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming
@@ -55,15 +52,19 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - [ ] Discrete Optimization
 - [ ] Game Theory, Part-1
 - [ ] Game Theory, Part-2
+- [ ] Approximation Algorithms, Part-1
+- [ ] Approximation Algorithms, Part-2
+- [ ] Games Without Chance
+- [ ] Model Thinking
+
+
+
 - [ ] Programming Language, Part- A
 - [ ] Programming Language, Part- B
 - [ ] Programming Language, Part- C
-- [ ] Approximation Algorithms, Part-1
-- [ ] Approximation Algorithms, Part-2
-- [ ] Model Thinking
-- [ ] Games Without Chance
-
-
+- [ ] Principles of Computing, Part-1
+- [ ] Algorithmic Thinking, Part-1
+- [ ] Algorithmic Thinking, Part-2
 
 #### Later, perhaps
 - EdX
