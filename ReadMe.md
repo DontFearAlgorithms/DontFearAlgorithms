@@ -11,8 +11,10 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 
 ## Programming Languages
 - Scala
+- Clojure(Script)
+- Kotlin
+- jRuby
 - Julia
-- Racket ( Typed )
 
 
 ** I'll rely on SageMath and Mathematica for various understanding and exploring various mathematical ideas and concepts.
