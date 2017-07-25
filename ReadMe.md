@@ -15,15 +15,15 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 - Kotlin
 - jRuby
 - Julia
+- Hy
 
 
-** I'll rely on SageMath and Mathematica for various understanding and exploring various mathematical ideas and concepts.
+** I'll rely on SageMath and Mathematica for understanding and exploring various mathematical ideas and concepts.
 
 ## Books 
 
 - Introduction to Algorithms, CLRS
 - Algorithms, Sedgewick
-- Algorithm Design and Applications, Goodrich
 - An Introduction to Analysis of Algorithms, Sedgewick
 - Cracking the Coding Interview, McDowell
 - Discrete Mathematics, Rosen
@@ -71,8 +71,8 @@ The goal of the entire effort is to be proficient in Algorithms, be confident in
 #### Later, perhaps
 - EdX
 - XueTang
-- Stepic
-- 
+- Stepik
+- Khan Academy
 
 
 Of the various courses, I've completed in these online platforms, I'd much rather do them again, with `Julia`, `Racket` and `Scala` in mind, deep inside ths feels right and makes me inspired to really `understand the essence` of these courses.
