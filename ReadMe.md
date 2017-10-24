@@ -10,6 +10,10 @@ I've reached the point where the validation about Algorithmic knowledge has beco
 The goal of the entire effort is to be proficient in Algorithms, be confident in my bones about my grasp of these ideas. 
 
 ## Programming Languages
+
+**OCAML**
+
+**LATER**
 - Scala
 - Clojure(Script)
 - Kotlin
